@@ -13,22 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\1206 김상은 0819">
+      <UniqueIdentifier>{34cf39de-2e78-4621-ad69-bbef0d8ee36a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1206 김상은 0820">
+      <UniqueIdentifier>{18f990b5-8a33-41e8-9a6d-419f860a4ac0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1206 김상은 0819 Fst자료구조5.c">
+      <Filter>소스 파일\1206 김상은 0819</Filter>
+    </ClCompile>
     <ClCompile Include="1206 김상은 0819 Fst자료구조1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1206 김상은 0819</Filter>
     </ClCompile>
     <ClCompile Include="1206 김상은 0819 Fst자료구조2.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1206 김상은 0819</Filter>
     </ClCompile>
     <ClCompile Include="1206 김상은 0819 Fst자료구조3.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1206 김상은 0819</Filter>
     </ClCompile>
     <ClCompile Include="1206 김상은 0819 Fst자료구조4.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\1206 김상은 0819</Filter>
     </ClCompile>
-    <ClCompile Include="1206 김상은 0819 Fst자료구조5.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="CallByValueCallByReference.c">
+      <Filter>소스 파일\1206 김상은 0820</Filter>
+    </ClCompile>
+    <ClCompile Include="팩토리얼.c">
+      <Filter>소스 파일\1206 김상은 0820</Filter>
+    </ClCompile>
+    <ClCompile Include="파일입출력.c">
+      <Filter>소스 파일\1206 김상은 0820</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
