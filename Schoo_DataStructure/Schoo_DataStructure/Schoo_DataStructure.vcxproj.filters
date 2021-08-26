@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\1206 김상은 0820">
       <UniqueIdentifier>{18f990b5-8a33-41e8-9a6d-419f860a4ac0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1206 김상은 0826">
+      <UniqueIdentifier>{e35a2272-441d-4c7b-bd7f-21ef78932797}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1206 김상은 0819 Fst자료구조5.c">
@@ -44,6 +47,15 @@
     </ClCompile>
     <ClCompile Include="파일입출력.c">
       <Filter>소스 파일\1206 김상은 0820</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일\1206 김상은 0826</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체2.c">
+      <Filter>소스 파일\1206 김상은 0826</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트.c">
+      <Filter>소스 파일\1206 김상은 0826</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
