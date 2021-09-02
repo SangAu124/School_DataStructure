@@ -63,6 +63,12 @@
     <ClCompile Include="메인소스.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="연결리스트1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트정렬메인.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="함수정의.c">
@@ -71,6 +77,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="헤더.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="연결리스트.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

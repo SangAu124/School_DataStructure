@@ -1,3 +1,2 @@
-﻿메인소스.obj : error LNK2019: _abc_main 함수에서 참조되는 확인할 수 없는 외부 기호
-메인소스.obj : error LNK2001: 확인할 수 없는 외부 기호 _a
-C:\Users\DGSW\Documents\GitHub\School_DataStructure\Schoo_DataStructure\Debug\Schoo_DataStructure.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
+﻿  연결리스트정렬메인.c
+  Schoo_DataStructure.vcxproj -> C:\Users\DGSW\Documents\GitHub\School_DataStructure\Schoo_DataStructure\Debug\Schoo_DataStructure.exe
