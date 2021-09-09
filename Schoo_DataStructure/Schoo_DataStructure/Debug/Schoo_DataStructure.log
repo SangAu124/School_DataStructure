@@ -1,2 +1,4 @@
 ﻿  Bubblesort.c
-  Schoo_DataStructure.vcxproj -> C:\Users\DGSW\Documents\GitHub\School_DataStructure\Schoo_DataStructure\Debug\Schoo_DataStructure.exe
+C:\Users\DGSW\Documents\GitHub\School_DataStructure\Schoo_DataStructure\Schoo_DataStructure\Bubblesort.c(17,9): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+C:\Users\DGSW\Documents\GitHub\School_DataStructure\Schoo_DataStructure\Schoo_DataStructure\Bubblesort.c(20,9): warning C4013: 'swap'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\DGSW\Documents\GitHub\School_DataStructure\Schoo_DataStructure\Schoo_DataStructure\Bubblesort.c(17): error C4700: 초기화되지 않은 'i' 지역 변수를 사용했습니다.
