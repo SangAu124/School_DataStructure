@@ -21,7 +21,7 @@
     <ClCompile Include="큐.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="df.c">
+    <ClCompile Include="이진탐색.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
