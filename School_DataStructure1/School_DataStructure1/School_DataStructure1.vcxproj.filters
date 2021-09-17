@@ -24,5 +24,17 @@
     <ClCompile Include="이진탐색.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="미로 탐색 코드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="미로탐색코드2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="쉘 정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
