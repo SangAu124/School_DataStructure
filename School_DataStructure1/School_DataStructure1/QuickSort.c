@@ -4,7 +4,7 @@
 
 int arr[10] = { 1, 10, 5, 8, 7, 6, 4, 3, 2, 9 };
 //int n = sizeof(arr) / sizeof(int);
-int n = 10;
+int n = sizeof(arr) / sizeof(int);
 	
 void quickSort(int arr[], int left ,int right) { 
 	if (left >= right) { // 정렬할 데이터 수 1의 경우
@@ -19,7 +19,7 @@ void quickSort(int arr[], int left ,int right) {
 		while (arr[i] <= arr[pivot]) // i의 값이 피봇의 이하이면  => 큰 값을 찾는 것이다.
 			i++;
 		while (arr[j] >= arr[pivot] && j > left)
-			// j의 값이 pivot보다 크고 j가 left보다 큰 경우에 한하여ㅋ
+			// j의 값이 pivot보다 크고 j가 left보다 큰 경우에 한하여
 			j--;
 	
 		if (i > j) // i와 j가 크로스 되었을 경우 -> j와 pivot을 교체
